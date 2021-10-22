@@ -1,1 +1,5 @@
 # MyBalanceCar
+
+基于经典的STM32F103C8T6、MPU6050、MX1508、ESP8266、OLED等的平衡小车源代码
+
+基于CubeMX的HAL库
